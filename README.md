@@ -73,7 +73,7 @@
     <td align="center">
       🔹 <strong>Blade Anomaly Detector</strong><br/>
       <em>CNN-based defect detection on aero engine blades (AeBAD_S dataset)</em><br/><br/>
-      <a href="https://github.com/your_username/your_repo">
+      <a href="https://github.com/divyanshudg-git/aebad-cnn-detection">
         <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github" />
       </a><br/>
       <img src="https://img.shields.io/badge/Tech-PyTorch%20%7C%20TransferLearning%20%7C%20ComputerVision-blue?style=for-the-badge" />
@@ -95,15 +95,14 @@
     <td align="center">
       🔹 <strong>Project C</strong><br/>
       <em>What makes it cool</em><br/><br/>
-      <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github" /><br/>
+      <a href="https://github.com/divyanshudg-git">
+        <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github" />
+      </a><br/>
       <img src="https://img.shields.io/badge/Tech-React%20%7C%20Firebase-blue?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </td>
   </tr>
 </table>
 </div>
-
-
-
 
 <a name="connect-with-me"></a>
 ## 📫 Connect With Me
