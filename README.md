@@ -1,4 +1,5 @@
 
+
 <!-- HERO SECTION -->
 <h1 align="center">Hi, it's Divyanshu 👋</h1>
 <p align="center">
@@ -63,11 +64,20 @@
 
 ---
 <a name="projects"></a>
+
 ## 🚀 Projects
 
 <div align="center">
 <table>
   <tr>
+    <td align="center">
+      🔹 <strong>Blade Anomaly Detector</strong><br/>
+      <em>CNN-based defect detection on aero engine blades (AeBAD_S dataset)</em><br/><br/>
+      <a href="https://github.com/your_username/your_repo">
+        <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github" />
+      </a><br/>
+      <img src="https://img.shields.io/badge/Tech-PyTorch%20%7C%20TransferLearning%20%7C%20ComputerVision-blue?style=for-the-badge" />
+    </td>
     <td align="center">
       🔹 <strong>Password Analyzer</strong><br/>
       <em>ML-powered tool to detect weak or personal info-based passwords</em><br/><br/>
@@ -81,12 +91,6 @@
         <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" />
       </a><br/>
       <img src="https://img.shields.io/badge/Tech-Flask%20%7C%20ML%20%7C%20Next.js-blue?style=for-the-badge" />
-    </td>
-    <td align="center">
-      🔹 <strong>Project B</strong><br/>
-      <em>One‑liner punchy description</em><br/><br/>
-      <img src="https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github" /><br/>
-      <img src="https://img.shields.io/badge/Tech-Node.js%20%7C%20MongoDB-green?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     </td>
     <td align="center">
       🔹 <strong>Project C</strong><br/>
@@ -115,4 +119,3 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
-
