@@ -127,6 +127,15 @@
       <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20ESLint%20%7C%20StaticAnalysis-blue?style=for-the-badge" />
     </td>
   </tr>
+  <tr>
+  <td>
+    <strong>LangChain – SystemMessage Clarification</strong><br/>
+    Updated the <code>langgraph_agentic_rag</code> notebook to clarify how <code>SystemMessage</code> should be manually added when using LangGraph agents.<br/><br/>
+    🔹 Based on issue <strong>#32320</strong> on the LangChain repo<br/>
+    📌 Pull Request: <a href="https://github.com/langchain-ai/langchain/pull/32320">#32320</a><br/>
+    <img src="https://img.shields.io/badge/Tech-Python%20%7C%20LangGraph%20%7C%20ChatOpenAI-blue?style=for-the-badge" />
+  </td>
+  </tr>
 </table>
 
 ---
