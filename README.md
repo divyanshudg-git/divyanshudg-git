@@ -104,6 +104,32 @@
 </table>
 </div>
 
+---
+<a name="Contributions"></a>
+
+## 🧩 Contributions
+<table>
+  <tr>
+    <td>
+      <strong>Refine – Supabase Realtime Filters</strong><br/>
+      Added support for <code>multiple filters</code> in Refine’s Supabase Realtime integration. Enables advanced real-time filtering scenarios.<br/><br/>
+      🔹 Based on issue <strong>#6360</strong> on the Refine repo<br/>
+      📌 Pull Request: <a href="https://github.com/refinedev/refine/pull/6360">#6360</a><br/>
+      <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20Supabase%20%7C%20Refine-blue?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>TypeScript‑ESLint – no-unsafe-assignment Fix</strong><br/>
+      Improved error messaging for <code>object destructuring</code> from <code>any</code>-typed values by adding a new message ID and updating tests.<br/><br/>
+      🔹 Based on issue <strong>#11389</strong> on the TypeScript‑ESLint repo<br/>
+      📌 Pull Request: <a href="https://github.com/typescript-eslint/typescript-eslint/pull/11390">#11390</a><br/>
+      <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20ESLint%20%7C%20StaticAnalysis-blue?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+---
 <a name="connect-with-me"></a>
 ## 📫 Connect With Me
 
@@ -118,3 +144,4 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
+
